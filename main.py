@@ -23,3 +23,4 @@ elif userPercentage >= 0 and userPercentage < 50:
           "%.")
 else:
     print("Something wrong, try again! \U0001f914")
+print()
