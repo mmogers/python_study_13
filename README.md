@@ -1,3 +1,5 @@
+
+## Lesson13 
 1.You are going to ask the user to type in the name of a test, maximum score they could receive, and how many points they received. 
 For example, your test could be called "Python Skills" and the maximum score is 50 points and the user receives 30 points out of 50 possible points.
 
@@ -10,9 +12,13 @@ For example, your test could be called "Python Skills" and the maximum score is 
 5.Add in emojis to celebrate their good grade or different colors depending on what you think is a good or bad final grade.
 Letter Grade	Percentage
 
-A+ 90-100
-A	80-89
-B	70-79
-C	60-69
-D	50-59
-U	under 50
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|A+ | 90-100       |
+|A- | 80-89        |
+|B | 70-79         |
+|C | 60-69         |
+|D | 50-59         |
+|U | under 50      |
+
+
